@@ -17,6 +17,8 @@ NOTE: At this point only Circle and Cube are supported
 
 SAMPLE:
 
-//NAME   X-coordiante Y-coordinate Z-coordinate Argument ( radius/sidelength )
+NAME   X-coordiante Y-coordinate Z-coordinate Argument ( radius/sidelength )
+
 Circle 0            0            0            10  
+
 Cube   1            2            3            20
