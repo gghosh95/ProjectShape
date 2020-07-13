@@ -10,4 +10,4 @@ NOTE: I have removed many functions from the previous version, I intend to exten
 
 NOTE: You can use it as you like but the libraries may cause some issues. If you face any problems refer to jMonkeyEngine documentation.
 This project is far from being a .exe type source code. 
-If it still persists, get a DevOps guy to look at it, I am an algorithms guy :)
+
